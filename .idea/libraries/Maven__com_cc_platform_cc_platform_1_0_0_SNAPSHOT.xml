@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cc.platform:cc-platform:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cc/platform/cc-platform/1.0.0-SNAPSHOT/cc-platform-1.0.0-20171209.083944-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cc/platform/cc-platform/1.0.0-SNAPSHOT/cc-platform-1.0.0-20171209.083944-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cc/platform/cc-platform/1.0.0-SNAPSHOT/cc-platform-1.0.0-20171209.083944-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
